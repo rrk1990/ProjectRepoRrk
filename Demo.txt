@@ -1,0 +1,5 @@
+git config --global user.name "Ravi Ranjan Kuma 
+git config --global user.email raviranjankumar424@example.com
+
+
+git cred "Rrk@1990"
